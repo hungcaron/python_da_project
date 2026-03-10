@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+jinja2
+statsmodels
+streamlit
+pdfkit
+# wkhtmltopdf is system dependency for pdf generation (not a pip package)
+scipy
